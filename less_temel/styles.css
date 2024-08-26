@@ -1,0 +1,17 @@
+body {
+  background: #f00;
+}
+h1 {
+  background: #000;
+  color: #fff;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#header {
+  background: #001190;
+  width: 800px;
+  height: 810px;
+}
